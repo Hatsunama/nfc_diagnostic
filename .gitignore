@@ -1,0 +1,12 @@
+classes/
+dex/
+res/
+src/
+AndroidManifest.xml
+*.apk
+*.idsig
+*.zip
+*.keystore
+*.log
+*-log.txt
+__pycache__/
